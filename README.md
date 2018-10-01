@@ -437,17 +437,19 @@ Here is how my library looks:
 
 I use [Nix](https://nixos.org/nix/) package manager to install all the [packages I use on my system](https://gist.github.com/nikitavoloboev/3fbe13ce427132d0297f411b62f49034).
 
+- [ ] Play with Nix
+
 I curate a list of [interesting CLI tools](https://github.com/learn-anything/command-line-tools#readme) you can use. Below are some command line tools I personally use and love.
 
-- [fzf](https://github.com/junegunn/fzf) - Command-line fuzzy finder.
+- [x] [fzf](https://github.com/junegunn/fzf) - Command-line fuzzy finder.
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - Search text for patterns fast.
 - [fd](https://github.com/sharkdp/fd) - Simple, fast and user-friendly alternative to 'find'.
 - [exa](https://github.com/ogham/exa) - Replacement for ls written in rust.
-- [bat](https://github.com/sharkdp/bat) - Cat clone with wings.
+- [x] [bat](https://github.com/sharkdp/bat) - Cat clone with wings.
 - [up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, APIs, and sites in seconds to AWS.
 - [jq](https://github.com/stedolan/jq) - JSON processor.
-- [git](https://github.com/git/git) - Version control.
-- [curl](https://curl.haxx.se/docs/manpage.html) - Transfer data from or to a server.
+- [x] [git](https://github.com/git/git) - Version control.
+- [x] [curl](https://curl.haxx.se/docs/manpage.html) - Transfer data from or to a server.
 - [youtube-dl](https://github.com/rg3/youtube-dl) - Download videos from YouTube and other video sites.
 - [tmux](https://github.com/tmux/tmux) - Terminal multiplexer.
 - [direnv](https://direnv.net/) - Environment switcher for the shell.
@@ -467,9 +469,9 @@ I curate a list of [interesting CLI tools](https://github.com/learn-anything/com
 - [hugo](https://github.com/gohugoio/hugo) - Fast and flexible static site generator.
 - [reflex](https://github.com/cespare/reflex) - Run a command when files change.
 - [modd](https://github.com/cortesi/modd) - Flexible tool for responding to file system changes.
-- [create-react-app](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration.
-- [now](https://github.com/zeit/now-cli) - Real time global deployments served over HTTP/2.
-- [yarn](https://github.com/yarnpkg/yarn) - Fast, reliable, and secure dependency management.
+- [x] [create-react-app](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration.
+- [x] [now](https://github.com/zeit/now-cli) - Real time global deployments served over HTTP/2.
+- [x] [yarn](https://github.com/yarnpkg/yarn) - Fast, reliable, and secure dependency management.
 - [hub](https://github.com/github/hub) - GitHub wrapper.
 - [entr](http://www.entrproject.org/) - Run arbitrary commands when files change.
 - [xsv](https://github.com/BurntSushi/xsv) - Fast CSV command line toolkit written in Rust.
@@ -484,10 +486,12 @@ I curate a list of [interesting CLI tools](https://github.com/learn-anything/com
 - [piknik](https://github.com/jedisct1/piknik) - Copy/paste anything over the network.
 - [bench](https://github.com/Gabriel439/bench) - Command-line benchmark tool.
 - [ghq](https://github.com/motemen/ghq) - Manage remote repository clones.
-- [npx](https://github.com/zkat/npx) - Execute npm package binaries.
+- [x] [npx](https://github.com/zkat/npx) - Execute npm package binaries.
 - [devd](https://github.com/cortesi/devd) - Local webserver for developers.
 - [wifi-password](https://github.com/rauchg/wifi-password) - Get the password of the WiFi you're on.
 - [fkill](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes.
+
+__WIP 2018-10-01__
 
 ## Preference Panes
 
